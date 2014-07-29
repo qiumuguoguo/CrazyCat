@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  ToeflListening
+
+  Created by zhaozilong on 13-5-10.
+
+*/
+"SYSTEM_LANGUAGE"  =   "LanguageCN";
+
+"BACK"                          = "返回";
+//"USER_ADVISE"                   = "意见反馈";
+"APP_NAME"                      = "名称";
+"APP_VERSION"                   = "软件版本";
+"SYSTEM_VERSION"                = "系统版本";
+"DEVICE_NAME"                   = "设备";
+"RATE"                          = "求评价~";
+
+//通用
+"OK"                            = "好";
+"CANCEL"                        = "取消";
+"SORRY"                         = "抱歉";
+"EDIT"                          = "编辑";
+"DONE"                          = "完成";
+"KOWN"                          = "知道了";
+"USE"                           = "使用";
+"DONT_USE"                      = "不使用";
+
+//网络连接情况
+"CHECK_INTERNET"                = "请检查您的网络设置";
+"BAD_NETWORK"                   = "网络貌似不太好哦";
+"NO_INTERNET"                   = "当前未联网";
+"PLEASE_WAIT"                   = "请稍后...";
+
+/******Store的翻译********/
+"STORE_ALERT_TITLE"             = "提示";
+"STORE_ALERT_MSG"               = "Not available in App Store";
+"STORE_ALERT_CLOSE"             = "关闭";
+"STORE_ALERT_CON"               = "谢谢";
+"STORE_ALERT_CON_MSG"           = "支付成功";
+"STORE_ALERT_CON_OK"            = "好";
+"STORE_ALERT_FAIL_TITLE"        = "失败";
+"STORE_ALERT_FAIL_MSG"          = "购买失败";
+"STORE_ALERT_FAIL_CLOSE"        = "关闭";
+"INDICATOR_NET_ERROR"           = "网络链接错误";
+"INDICATOR_NET_NOT_CONNECT"     = "网络链接错误";
+"SEND"                          = "发送";
+
+/***********************************/
+"HELP_CONTENT" = "我正在玩“电影猜猜猜”，快来帮我看看这张海报是什么电影啊。App下载地址：";
+"SHARE_CONTENT" = "“电影猜猜猜-消方块猜电影”现已登陆苹果App Store，来试试你能猜中几个？";
+
+
+/*******TITLE***********/
+"TITLE_MORE_INFO" = "更多信息";
+"TITLE_SHARE" = "分享";
+"TITLE_APP_NAME" = "围住神经兔";
+
