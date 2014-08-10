@@ -44,7 +44,7 @@
 			<key>spriteTrimmed</key>
 			<true/>
 			<key>textureRect</key>
-			<string>{{372, 307}, {66, 66}}</string>
+			<string>{{581, 388}, {66, 66}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -66,7 +66,7 @@
 			<key>spriteTrimmed</key>
 			<true/>
 			<key>textureRect</key>
-			<string>{{271, 408}, {135, 80}}</string>
+			<string>{{444, 389}, {135, 80}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -88,7 +88,7 @@
 			<key>spriteTrimmed</key>
 			<true/>
 			<key>textureRect</key>
-			<string>{{70, 418}, {135, 80}}</string>
+			<string>{{412, 307}, {135, 80}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -132,7 +132,7 @@
 			<key>spriteTrimmed</key>
 			<true/>
 			<key>textureRect</key>
-			<string>{{0, 418}, {68, 89}}</string>
+			<string>{{96, 418}, {68, 89}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -154,7 +154,7 @@
 			<key>spriteTrimmed</key>
 			<true/>
 			<key>textureRect</key>
-			<string>{{306, 307}, {64, 79}}</string>
+			<string>{{549, 307}, {64, 79}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -181,6 +181,94 @@
 			<false/>
 		</dict>
 		
+		<key>Crazy_Frog0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 25}, {58, 89}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -11}</string>
+			<key>spriteSize</key>
+			<string>{58, 89}</string>
+			<key>spriteSourceSize</key>
+			<string>{70, 117}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{384, 398}, {58, 89}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>Crazy_Frog1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 19}, {46, 93}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -7}</string>
+			<key>spriteSize</key>
+			<string>{46, 93}</string>
+			<key>spriteSourceSize</key>
+			<string>{70, 117}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 418}, {46, 93}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>Crazy_Frog2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 25}, {58, 89}}</string>
+			<key>spriteOffset</key>
+			<string>{1, -11}</string>
+			<key>spriteSize</key>
+			<string>{58, 89}</string>
+			<key>spriteSourceSize</key>
+			<string>{70, 117}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{352, 307}, {58, 89}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>Crazy_Frog3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 19}, {46, 93}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -7}</string>
+			<key>spriteSize</key>
+			<string>{46, 93}</string>
+			<key>spriteSourceSize</key>
+			<string>{70, 117}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{48, 418}, {46, 93}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
 		<key>Normal0.png</key>
 		<dict>
 			<key>aliases</key>
@@ -198,7 +286,7 @@
 			<key>spriteTrimmed</key>
 			<true/>
 			<key>textureRect</key>
-			<string>{{207, 410}, {62, 101}}</string>
+			<string>{{220, 410}, {62, 101}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -220,7 +308,7 @@
 			<key>spriteTrimmed</key>
 			<true/>
 			<key>textureRect</key>
-			<string>{{0, 307}, {54, 109}}</string>
+			<string>{{56, 307}, {54, 109}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -264,7 +352,95 @@
 			<key>spriteTrimmed</key>
 			<true/>
 			<key>textureRect</key>
-			<string>{{56, 307}, {54, 109}}</string>
+			<string>{{0, 307}, {54, 109}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>Normal_Frog0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 14}, {44, 99}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -5}</string>
+			<key>spriteSize</key>
+			<string>{44, 99}</string>
+			<key>spriteSourceSize</key>
+			<string>{70, 117}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{284, 408}, {44, 99}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>Normal_Frog1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 16}, {52, 95}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -5}</string>
+			<key>spriteSize</key>
+			<string>{52, 95}</string>
+			<key>spriteSourceSize</key>
+			<string>{70, 117}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{330, 408}, {52, 95}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>Normal_Frog2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 14}, {44, 99}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -5}</string>
+			<key>spriteSize</key>
+			<string>{44, 99}</string>
+			<key>spriteSourceSize</key>
+			<string>{70, 117}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{306, 307}, {44, 99}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>Normal_Frog3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{12, 16}, {52, 95}}</string>
+			<key>spriteOffset</key>
+			<string>{3, -5}</string>
+			<key>spriteSize</key>
+			<string>{52, 95}</string>
+			<key>spriteSourceSize</key>
+			<string>{70, 117}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{166, 416}, {52, 95}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>
@@ -286,7 +462,7 @@
 			<key>spriteTrimmed</key>
 			<true/>
 			<key>textureRect</key>
-			<string>{{408, 375}, {66, 66}}</string>
+			<string>{{615, 307}, {66, 66}}</string>
 			<key>textureRotated</key>
 			<false/>
 		</dict>

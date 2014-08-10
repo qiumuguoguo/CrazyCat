@@ -123,7 +123,6 @@
 		0013753B198133E5008F31CA /* libz.1.2.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 0013753A198133E5008F31CA /* libz.1.2.5.dylib */; };
 		0013753D198133EF008F31CA /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0013753C198133EF008F31CA /* CoreTelephony.framework */; };
 		0013753F198133FC008F31CA /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0013753E198133FC008F31CA /* SystemConfiguration.framework */; };
-		0013754119813405008F31CA /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0013754019813405008F31CA /* StoreKit.framework */; };
 		0013754319813412008F31CA /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 0013754219813412008F31CA /* libz.dylib */; };
 		00137545198134C5008F31CA /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 00137544198134C5008F31CA /* libsqlite3.0.dylib */; };
 		001375481981A099008F31CA /* EndingLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 001375471981A099008F31CA /* EndingLayer.m */; };
@@ -133,15 +132,16 @@
 		001936A11986B67400A6DE9C /* MainPage-hd.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0019369B1986B67400A6DE9C /* MainPage-hd.plist */; };
 		001936A21986B67400A6DE9C /* MainPage-ipad.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0019369C1986B67400A6DE9C /* MainPage-ipad.plist */; };
 		001936A31986B67400A6DE9C /* MainPage-ipadhd.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0019369D1986B67400A6DE9C /* MainPage-ipadhd.plist */; };
+		0025643A198A1E6B001F67F7 /* CrazyCat-ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 00256434198A1E6B001F67F7 /* CrazyCat-ipad.png */; };
+		0025643B198A1E6B001F67F7 /* CrazyCat-ipadhd.png in Resources */ = {isa = PBXBuildFile; fileRef = 00256435198A1E6B001F67F7 /* CrazyCat-ipadhd.png */; };
+		0025643D198A1E6B001F67F7 /* CrazyCat-ipad.plist in Resources */ = {isa = PBXBuildFile; fileRef = 00256437198A1E6B001F67F7 /* CrazyCat-ipad.plist */; };
+		0025643E198A1E6B001F67F7 /* CrazyCat-ipadhd.plist in Resources */ = {isa = PBXBuildFile; fileRef = 00256438198A1E6B001F67F7 /* CrazyCat-ipadhd.plist */; };
+		00256441198A20A6001F67F7 /* CrazyCat-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 0025643F198A20A6001F67F7 /* CrazyCat-hd.png */; };
+		00256442198A20A6001F67F7 /* CrazyCat-hd.plist in Resources */ = {isa = PBXBuildFile; fileRef = 00256440198A20A6001F67F7 /* CrazyCat-hd.plist */; };
+		00270D541991E74300733448 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00270D531991E74300733448 /* StoreKit.framework */; };
 		00315934198512EA00B8BB89 /* ZZAcquirePath.m in Sources */ = {isa = PBXBuildFile; fileRef = 00315933198512EA00B8BB89 /* ZZAcquirePath.m */; };
 		003BE2AC1983F15000A28288 /* CCAnimationHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 003BE2A91983F15000A28288 /* CCAnimationHelper.m */; };
 		003BE2AD1983F15000A28288 /* CCDirectorExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 003BE2AB1983F15000A28288 /* CCDirectorExtension.m */; };
-		0077FAD3198699BD00362D91 /* CrazyCat-hd.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0077FAB2198699BD00362D91 /* CrazyCat-hd.plist */; };
-		0077FAD4198699BD00362D91 /* CrazyCat-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 0077FAB3198699BD00362D91 /* CrazyCat-hd.png */; };
-		0077FAD5198699BD00362D91 /* CrazyCat-ipad.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0077FAB4198699BD00362D91 /* CrazyCat-ipad.plist */; };
-		0077FAD6198699BD00362D91 /* CrazyCat-ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 0077FAB5198699BD00362D91 /* CrazyCat-ipad.png */; };
-		0077FAD7198699BD00362D91 /* CrazyCat-ipadhd.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0077FAB6198699BD00362D91 /* CrazyCat-ipadhd.plist */; };
-		0077FAD8198699BD00362D91 /* CrazyCat-ipadhd.png in Resources */ = {isa = PBXBuildFile; fileRef = 0077FAB7198699BD00362D91 /* CrazyCat-ipadhd.png */; };
 		0077FAD9198699BD00362D91 /* EndingPage-hd.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0077FAB8198699BD00362D91 /* EndingPage-hd.plist */; };
 		0077FADA198699BD00362D91 /* EndingPage-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 0077FAB9198699BD00362D91 /* EndingPage-hd.png */; };
 		0077FADB198699BD00362D91 /* EndingPage-ipad.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0077FABA198699BD00362D91 /* EndingPage-ipad.plist */; };
@@ -435,7 +435,6 @@
 		0013753A198133E5008F31CA /* libz.1.2.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.1.2.5.dylib; path = usr/lib/libz.1.2.5.dylib; sourceTree = SDKROOT; };
 		0013753C198133EF008F31CA /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
 		0013753E198133FC008F31CA /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
-		0013754019813405008F31CA /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		0013754219813412008F31CA /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
 		00137544198134C5008F31CA /* libsqlite3.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.0.dylib; path = usr/lib/libsqlite3.0.dylib; sourceTree = SDKROOT; };
 		001375461981A099008F31CA /* EndingLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EndingLayer.h; sourceTree = "<group>"; };
@@ -446,6 +445,13 @@
 		0019369B1986B67400A6DE9C /* MainPage-hd.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "MainPage-hd.plist"; sourceTree = "<group>"; };
 		0019369C1986B67400A6DE9C /* MainPage-ipad.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "MainPage-ipad.plist"; sourceTree = "<group>"; };
 		0019369D1986B67400A6DE9C /* MainPage-ipadhd.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "MainPage-ipadhd.plist"; sourceTree = "<group>"; };
+		00256434198A1E6B001F67F7 /* CrazyCat-ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CrazyCat-ipad.png"; sourceTree = "<group>"; };
+		00256435198A1E6B001F67F7 /* CrazyCat-ipadhd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CrazyCat-ipadhd.png"; sourceTree = "<group>"; };
+		00256437198A1E6B001F67F7 /* CrazyCat-ipad.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CrazyCat-ipad.plist"; sourceTree = "<group>"; };
+		00256438198A1E6B001F67F7 /* CrazyCat-ipadhd.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CrazyCat-ipadhd.plist"; sourceTree = "<group>"; };
+		0025643F198A20A6001F67F7 /* CrazyCat-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CrazyCat-hd.png"; sourceTree = "<group>"; };
+		00256440198A20A6001F67F7 /* CrazyCat-hd.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CrazyCat-hd.plist"; sourceTree = "<group>"; };
+		00270D531991E74300733448 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		00315932198512EA00B8BB89 /* ZZAcquirePath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZZAcquirePath.h; sourceTree = "<group>"; };
 		00315933198512EA00B8BB89 /* ZZAcquirePath.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZZAcquirePath.m; sourceTree = "<group>"; };
 		003BE2A81983F15000A28288 /* CCAnimationHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCAnimationHelper.h; sourceTree = "<group>"; };
@@ -453,12 +459,6 @@
 		003BE2AA1983F15000A28288 /* CCDirectorExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCDirectorExtension.h; sourceTree = "<group>"; };
 		003BE2AB1983F15000A28288 /* CCDirectorExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCDirectorExtension.m; sourceTree = "<group>"; };
 		003BE2AE1983F86400A28288 /* GameSetting.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameSetting.h; sourceTree = "<group>"; };
-		0077FAB2198699BD00362D91 /* CrazyCat-hd.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CrazyCat-hd.plist"; sourceTree = "<group>"; };
-		0077FAB3198699BD00362D91 /* CrazyCat-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CrazyCat-hd.png"; sourceTree = "<group>"; };
-		0077FAB4198699BD00362D91 /* CrazyCat-ipad.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CrazyCat-ipad.plist"; sourceTree = "<group>"; };
-		0077FAB5198699BD00362D91 /* CrazyCat-ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CrazyCat-ipad.png"; sourceTree = "<group>"; };
-		0077FAB6198699BD00362D91 /* CrazyCat-ipadhd.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CrazyCat-ipadhd.plist"; sourceTree = "<group>"; };
-		0077FAB7198699BD00362D91 /* CrazyCat-ipadhd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CrazyCat-ipadhd.png"; sourceTree = "<group>"; };
 		0077FAB8198699BD00362D91 /* EndingPage-hd.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "EndingPage-hd.plist"; sourceTree = "<group>"; };
 		0077FAB9198699BD00362D91 /* EndingPage-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "EndingPage-hd.png"; sourceTree = "<group>"; };
 		0077FABA198699BD00362D91 /* EndingPage-ipad.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "EndingPage-ipad.plist"; sourceTree = "<group>"; };
@@ -542,13 +542,13 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00270D541991E74300733448 /* StoreKit.framework in Frameworks */,
 				00137545198134C5008F31CA /* libsqlite3.0.dylib in Frameworks */,
 				001373BC19809EF8008F31CA /* AudioToolbox.framework in Frameworks */,
 				00E031C5198695E6003A3BC3 /* libSinaWeiboSDK.a in Frameworks */,
 				001373B619809EF8008F31CA /* QuartzCore.framework in Frameworks */,
 				0079BECE198660D70039E70C /* libGoogleAdMobAds.a in Frameworks */,
 				0013754319813412008F31CA /* libz.dylib in Frameworks */,
-				0013754119813405008F31CA /* StoreKit.framework in Frameworks */,
 				00E031CF198695E6003A3BC3 /* ShareSDKiPhoneSimpleShareViewUI.framework in Frameworks */,
 				0013753F198133FC008F31CA /* SystemConfiguration.framework in Frameworks */,
 				0013753D198133EF008F31CA /* CoreTelephony.framework in Frameworks */,
@@ -604,9 +604,9 @@
 		001373B419809EF8008F31CA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				00270D531991E74300733448 /* StoreKit.framework */,
 				00137544198134C5008F31CA /* libsqlite3.0.dylib */,
 				0013754219813412008F31CA /* libz.dylib */,
-				0013754019813405008F31CA /* StoreKit.framework */,
 				0013753E198133FC008F31CA /* SystemConfiguration.framework */,
 				0013753C198133EF008F31CA /* CoreTelephony.framework */,
 				0013753A198133E5008F31CA /* libz.1.2.5.dylib */,
@@ -970,18 +970,18 @@
 		0077FAB1198699BD00362D91 /* CrazyCatUI */ = {
 			isa = PBXGroup;
 			children = (
+				0025643F198A20A6001F67F7 /* CrazyCat-hd.png */,
+				00256440198A20A6001F67F7 /* CrazyCat-hd.plist */,
+				00256434198A1E6B001F67F7 /* CrazyCat-ipad.png */,
+				00256435198A1E6B001F67F7 /* CrazyCat-ipadhd.png */,
+				00256437198A1E6B001F67F7 /* CrazyCat-ipad.plist */,
+				00256438198A1E6B001F67F7 /* CrazyCat-ipadhd.plist */,
 				001936981986B67400A6DE9C /* MainPage-ipadhd.png */,
 				001936991986B67400A6DE9C /* MainPage-ipad.png */,
 				0019369A1986B67400A6DE9C /* MainPage-hd.png */,
 				0019369B1986B67400A6DE9C /* MainPage-hd.plist */,
 				0019369C1986B67400A6DE9C /* MainPage-ipad.plist */,
 				0019369D1986B67400A6DE9C /* MainPage-ipadhd.plist */,
-				0077FAB2198699BD00362D91 /* CrazyCat-hd.plist */,
-				0077FAB3198699BD00362D91 /* CrazyCat-hd.png */,
-				0077FAB4198699BD00362D91 /* CrazyCat-ipad.plist */,
-				0077FAB5198699BD00362D91 /* CrazyCat-ipad.png */,
-				0077FAB6198699BD00362D91 /* CrazyCat-ipadhd.plist */,
-				0077FAB7198699BD00362D91 /* CrazyCat-ipadhd.png */,
 				0077FAB8198699BD00362D91 /* EndingPage-hd.plist */,
 				0077FAB9198699BD00362D91 /* EndingPage-hd.png */,
 				0077FABA198699BD00362D91 /* EndingPage-ipad.plist */,
@@ -1162,6 +1162,11 @@
 				TargetAttributes = {
 					001373B119809EF8008F31CA = {
 						DevelopmentTeam = 9VBEVA8YUC;
+						SystemCapabilities = {
+							com.apple.InAppPurchase = {
+								enabled = 0;
+							};
+						};
 					};
 				};
 			};
@@ -1194,7 +1199,7 @@
 				001936A31986B67400A6DE9C /* MainPage-ipadhd.plist in Resources */,
 				0077FAEB198699BD00362D91 /* Icon-76.png in Resources */,
 				0019369F1986B67400A6DE9C /* MainPage-ipad.png in Resources */,
-				0077FAD6198699BD00362D91 /* CrazyCat-ipad.png in Resources */,
+				00256441198A20A6001F67F7 /* CrazyCat-hd.png in Resources */,
 				0077FAEE198699BD00362D91 /* Icon-Small-50@2x.png in Resources */,
 				0077FAEC198699BD00362D91 /* Icon-76@2x.png in Resources */,
 				0077FADE198699BD00362D91 /* EndingPage-ipadhd.png in Resources */,
@@ -1205,17 +1210,15 @@
 				0077FADB198699BD00362D91 /* EndingPage-ipad.plist in Resources */,
 				0077FAF71986B26400362D91 /* Default-568h@2x.png in Resources */,
 				00D11C701987A0430074065E /* Effect_Normal1.caf in Resources */,
+				0025643D198A1E6B001F67F7 /* CrazyCat-ipad.plist in Resources */,
 				00D11C711987A0430074065E /* Effect_Start.caf in Resources */,
 				0077FAE6198699BD00362D91 /* Icon-40@2x.png in Resources */,
 				0077FADD198699BD00362D91 /* EndingPage-ipadhd.plist in Resources */,
 				0077FAE8198699BD00362D91 /* Icon-60@2x.png in Resources */,
 				001373DD19809EF9008F31CA /* iTunesArtwork in Resources */,
 				0079BED4198678C50039E70C /* Localizable.strings in Resources */,
-				0077FAD4198699BD00362D91 /* CrazyCat-hd.png in Resources */,
 				00E031C9198695E6003A3BC3 /* ShareSDKFlatShareViewUI.bundle in Resources */,
-				0077FAD3198699BD00362D91 /* CrazyCat-hd.plist in Resources */,
 				0077FAEF198699BD00362D91 /* Icon-Small.png in Resources */,
-				0077FAD8198699BD00362D91 /* CrazyCat-ipadhd.png in Resources */,
 				0077FAE5198699BD00362D91 /* Icon-40.png in Resources */,
 				0077FAF91986B26400362D91 /* Default-Portrait@2x~iPad.png in Resources */,
 				0077FAF1198699BD00362D91 /* Icon.png in Resources */,
@@ -1223,22 +1226,24 @@
 				0077FAED198699BD00362D91 /* Icon-Small-50.png in Resources */,
 				00E031C6198695E6003A3BC3 /* WeiboSDK.bundle in Resources */,
 				0077FADC198699BD00362D91 /* EndingPage-ipad.png in Resources */,
+				0025643B198A1E6B001F67F7 /* CrazyCat-ipadhd.png in Resources */,
 				0077FAF81986B26400362D91 /* Default-Portrait.png in Resources */,
 				00D11C731987A0430074065E /* Effect_Win.caf in Resources */,
 				001936A11986B67400A6DE9C /* MainPage-hd.plist in Resources */,
 				00D11C6B1987A0430074065E /* Effect_Crazy0.caf in Resources */,
 				0077FAF0198699BD00362D91 /* Icon-Small@2x.png in Resources */,
+				00256442198A20A6001F67F7 /* CrazyCat-hd.plist in Resources */,
 				00E031CC198695E6003A3BC3 /* ShareSDKiPhoneDefaultShareViewUI.bundle in Resources */,
 				0077FAD9198699BD00362D91 /* EndingPage-hd.plist in Resources */,
 				00E031CE198695E6003A3BC3 /* ShareSDKiPhoneSimpleShareViewUI.bundle in Resources */,
+				0025643A198A1E6B001F67F7 /* CrazyCat-ipad.png in Resources */,
 				001936A01986B67400A6DE9C /* MainPage-hd.png in Resources */,
-				0077FAD5198699BD00362D91 /* CrazyCat-ipad.plist in Resources */,
 				00D11C721987A0430074065E /* Effect_Tap.caf in Resources */,
 				0079BECF198660D70039E70C /* README.txt in Resources */,
+				0025643E198A1E6B001F67F7 /* CrazyCat-ipadhd.plist in Resources */,
 				0077FAE9198699BD00362D91 /* Icon-72.png in Resources */,
 				001936A21986B67400A6DE9C /* MainPage-ipad.plist in Resources */,
 				0077FAE7198699BD00362D91 /* Icon-60.png in Resources */,
-				0077FAD7198699BD00362D91 /* CrazyCat-ipadhd.plist in Resources */,
 				00E031C2198695E6003A3BC3 /* ShareSDKLocalizable.strings in Resources */,
 				00E031C3198695E6003A3BC3 /* Resource.bundle in Resources */,
 				0077FADA198699BD00362D91 /* EndingPage-hd.png in Resources */,
@@ -1417,8 +1422,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COMPRESS_PNG_FILES = NO;
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -1452,7 +1457,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "D02F50D3-C1BE-43DC-9B1E-2FD4231B2587";
+				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "armv7 armv7s";
 				WRAPPER_EXTENSION = app;
@@ -1463,8 +1468,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COMPRESS_PNG_FILES = NO;
 				COPY_PHASE_STRIP = YES;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -1497,7 +1502,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "D02F50D3-C1BE-43DC-9B1E-2FD4231B2587";
+				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VALID_ARCHS = "armv7 armv7s";

@@ -56,6 +56,7 @@
         delay = 0.22;
         tag = TAG_ANIMATE_NORMAL;
         animateName = @"Normal";
+//        animateName = @"Normal_Frog";
         
     } else {
         
@@ -63,6 +64,7 @@
         delay = 0.15;
         tag = TAG_ANIMATE_CRAZY;
         animateName = @"Crazy";
+//        animateName = @"Crazy_Frog";
     }
     
     [self.catSprite stopActionByTag:TAG_ANIMATE_NORMAL];

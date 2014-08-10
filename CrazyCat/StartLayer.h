@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "cocos2d.h"
-#import <StoreKit/StoreKit.h>
+//#import <StoreKit/StoreKit.h>
 
 //所有的位置坐标
 typedef struct StartPostion {
@@ -32,7 +32,7 @@ typedef struct StartPostion {
     
 }StartPostionSet;
 
-@interface StartLayer : CCLayer<SKPaymentTransactionObserver, SKProductsRequestDelegate, SKRequestDelegate> {
+@interface StartLayer : CCLayer/*<SKPaymentTransactionObserver, SKProductsRequestDelegate, SKRequestDelegate>*/ {
 //    StartPostionSet _SPSet;
     
 }

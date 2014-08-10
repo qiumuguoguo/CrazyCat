@@ -225,8 +225,6 @@ static HelloWorldLayer *instanceOfHelloScene;
 //计算最短路径，广度优先搜索。
 - (void) findShortestWayWithLayer:(int)treeLayer {
     
-//    BOOL isDone = NO;
-    
     if (_pathNodeMutableArray.count == 0) {
         int circlrIndex = _crazyCat.circleIndex;
         ZZCircle *curCircle = [_circleMutableArray objectAtIndex:circlrIndex];

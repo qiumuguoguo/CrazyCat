@@ -110,6 +110,7 @@
     CCSprite *adHLSprite = [CCSprite spriteWithSpriteFrameName:@"Button_Ad_HL.png"];
     _adItem = [CCMenuItemSprite itemFromNormalSprite:adSprite selectedSprite:adHLSprite target:self selector:@selector(removeAd)];
     _adItem.anchorPoint = ccp(0.5, 0.5);
+    _adItem.visible = false;
     
     //信息
     CCSprite *infoSprite = [CCSprite spriteWithSpriteFrameName:@"Button_Info.png"];
@@ -291,8 +292,6 @@
     
     [ZZPublic playEffectWithType:EffectStart];
     
-//    [ZZPublic playBtnPressedEffect];
-    
     [self buyWhichProduct:IAP_PRODUCT_ID];
     
     [self setIndicatorShow];
@@ -303,7 +302,7 @@
     [ZZPublic playEffectWithType:EffectStart];
     
 }
-
+/*
 #pragma mark - IAP
 
 - (void)buyWhichProduct:(NSString *)PID {
@@ -538,5 +537,6 @@
         _indicator = nil;
     }
 }
+ */
 
 @end
