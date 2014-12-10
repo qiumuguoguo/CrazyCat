@@ -230,7 +230,7 @@
     _menu.isTouchEnabled = NO;
     
     [[HelloWorldLayer sharedHelloScene] setIsTouchedLayer:YES];
-    [[HelloWorldLayer sharedHelloScene] setAdIsHidden:NO];
+    [[HelloWorldLayer sharedHelloScene] setAdIsHidden:YES];
 }
 
 - (void)showStartLayer {

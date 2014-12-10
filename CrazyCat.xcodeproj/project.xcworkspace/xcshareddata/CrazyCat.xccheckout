@@ -10,29 +10,29 @@
 	<string>CrazyCat</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>BA565A16-0E07-4647-8AD2-5D315C6A4939</key>
+		<key>3371249D995A1A23C27ADA6394D7CBF05CD43222</key>
 		<string>https://github.com/zhaozilong1988/CrazyCat.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>CrazyCat.xcodeproj/project.xcworkspace</string>
+	<string>CrazyCat.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>BA565A16-0E07-4647-8AD2-5D315C6A4939</key>
+		<key>3371249D995A1A23C27ADA6394D7CBF05CD43222</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/zhaozilong1988/CrazyCat.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>BA565A16-0E07-4647-8AD2-5D315C6A4939</string>
+	<string>3371249D995A1A23C27ADA6394D7CBF05CD43222</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>BA565A16-0E07-4647-8AD2-5D315C6A4939</string>
+			<string>3371249D995A1A23C27ADA6394D7CBF05CD43222</string>
 			<key>IDESourceControlWCCName</key>
 			<string>CrazyCat</string>
 		</dict>
